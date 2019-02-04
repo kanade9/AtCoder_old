@@ -1,4 +1,2 @@
 # AtCoder
-
-あassdnsjfksjska
-# MEDATUYO
+AtCoderで解いて通ったコードを備忘録的においていくためのリポジトリ
